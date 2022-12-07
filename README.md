@@ -1,15 +1,15 @@
 # Project Submission
-Our project submission includes four files in total – two data files and two code files:
-1.  covid_search_results_summary.xls : Excel file containing over 240 search engine results for various COVID-related queries. These data are used to train and test the analytical models.
-2.  url_accuracy.xls : Excel file containing over 3,400 judgments of website factual accuracy, based on assessments from organizations like MediaBiasFactCheck, NewsGuard, HON, and others. These data are used by the models.
-3.  CS410_COVID_Notebook_A.ipynb : Python notebook that scrapes results from three search engines, builds a model, and assesses its accuracy.  This program requires the two data files above. Of the five project objectives, Notebook A achieves 1 through 4. However, it does not provide an interactive way for a user to enter his or her own choice of websites to analyze.
-4.  CS410_COVID_Notebook_B.ipynb : Python notebook that provides an interactive assessment of user input. This program also requires the two data files above. Of the five project objectives, Notebook B achieves 2 through 4 and provides a way for users to enter a website for analysis. Finally, Notebook B uses a different modeling technique, so the reviewer can see the performance of different methods.
-5.  CS410_COVID_Team_Presentation.pptx : PowerPoint presentation containing (a) overview of the notebooks and what they do, (b) how the notebooks are implemented, (c) how to install and run each notebook, and (d) summary contributions of each team member. 
+Our project submission includes five files in total – two data files, two code files, and a presentation:
+1.  **covid_search_results_summary.xls** : Excel file containing over 240 search engine results for various COVID-related queries. These data are used to train and test the analytical models.
+2.  **url_accuracy.xls** : Excel file containing over 3,400 judgments of website factual accuracy, based on assessments from organizations like MediaBiasFactCheck, NewsGuard, HON, and others. These data are used by the models.
+3.  **CS410_COVID_Notebook_A.ipynb** : Python notebook that scrapes results from three search engines, builds a discriminative model, and assesses its accuracy.  This program requires the two data files above. Of the five project objectives, Notebook A achieves 1 through 4. However, it does not provide an interactive way for a user to enter his or her own choice of websites to analyze.
+4.  **CS410_COVID_Notebook_B.ipynb** : Python notebook that provides an interactive assessment of user input using a generative model. This program also requires the two data files above. Of the five project objectives, Notebook B achieves 2 through 4 and provides a way for users to enter a website for analysis. Finally, Notebook B uses a different modeling technique, so the reviewer can see the performance of different methods.
+5.  **CS410_COVID_Team_Presentation.pptx** : PowerPoint presentation containing (a) overview of the notebooks and what they do, (b) how the notebooks are implemented, (c) how to install and run each notebook, and (d) summary contributions of each team member. 
 
-There is a sixth file, CS410_COVID_Team_Presentation_with_Narration.pptx, that adds voice-over narration to the above PowerPoint. All content other than the voice-over is identical. Unfortunately, the size of this file exceeds GitHub's limitation and we have not been able to upload it.
+There is a sixth file, **CS410_COVID_Team_Presentation_with_Narration.pptx**, that adds voice-over narration to the above PowerPoint. All content other than the voice-over is identical. Unfortunately, the size of this file exceeds GitHub's limitation and we have not been able to upload it.
   
   
-.  
+   
 ### Course Project Instructions
 Before completing these steps, please make sure that you have signed up for Microsoft CMT according to the directions listed in the Google doc. Every team member must create a CMT account.
 
