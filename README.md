@@ -9,7 +9,7 @@ Our project submission includes four files in total – two data files and two c
 There is a sixth file, CS410_COVID_Team_Presentation_with_Narration.pptx, that adds voice-over narration to the above PowerPoint. All content other than the voice-over is identical. Unfortunately, the size of this file exceeds GitHub's limitation and we have not been able to upload it.
   
   
-  
+.  
 ### Course Project Instructions
 Before completing these steps, please make sure that you have signed up for Microsoft CMT according to the directions listed in the Google doc. Every team member must create a CMT account.
 
