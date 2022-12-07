@@ -6,8 +6,10 @@ Our project submission includes five files in total – two data files, two code
 4.  **CS410_COVID_Notebook_B.ipynb** : Python notebook that provides an interactive assessment of user input using a generative model. This program also requires the two data files above. Of the five project objectives, Notebook B achieves 2 through 4 and provides a way for users to enter a website for analysis. Finally, Notebook B uses a different modeling technique, so the reviewer can see the performance of different methods.
 5.  **CS410_COVID_Team_Presentation.pptx** : PowerPoint presentation containing (a) overview of the notebooks and what they do, (b) how the notebooks are implemented, (c) how to install and run each notebook, and (d) summary contributions of each team member. 
 
-There is a sixth file, **CS410_COVID_Team_Presentation_with_Narration.pptx**, that adds voice-over narration to the above PowerPoint. All content other than the voice-over is identical. Unfortunately, the size of this file exceeds GitHub's limitation and we have not been able to upload it.
-  
+There is also a "voiced PPT presentation" that adds voice-over narration to the above PowerPoint. All content other than the voice-over is identical. Unfortunately, this file was too big for GitHub to accept, so it has been divided into two parts:
+6.  **CS410_COVID_Narrated_Presentation_1_of_2.pptx** - First part of the narrated usage and overview presentation.
+7.  **CS410_COVID_Narrated_Presentation_2_of_2.pptx** - Second part of the narrated usage and overview presentation.
+
   
    
 ### Course Project Instructions
